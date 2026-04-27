@@ -10,6 +10,9 @@ function runTests() {
     throw new Error("Test Failed: -1 + 1 should be 0");
   }
 
+  if (add(-1,1)==0){
+    console.log("3rd test case passed")
+  }
   console.log("All tests passed ✅");
 }
 
