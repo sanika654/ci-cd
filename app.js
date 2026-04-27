@@ -1,1 +1,1 @@
-console.log("My first CI/CD")
+throw nwe error("My first CI/CD")
