@@ -1,1 +1,5 @@
-throw nwe error("My first CI/CD")
+function add(a,b){
+    return a+b
+}
+
+module.exports = { add };

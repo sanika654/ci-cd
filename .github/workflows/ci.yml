@@ -17,5 +17,5 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Run app.js
-        run: node app.js
+      - name: Run test.js
+        run: node test.js
